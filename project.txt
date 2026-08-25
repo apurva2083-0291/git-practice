@@ -1,2 +1,3 @@
 I want to learn using git and GitHub efficiently!
 I can use this knowledge to potentially create a fun project!
+My favorite programming language is Python!
